@@ -195,6 +195,7 @@ with a justification) or open an issue.
 * Neutroon [Open positions](https://www.neutroon.com/career)
 * Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
 * Nextail [Open positions](https://nextaillabs.recruitee.com/)
+* New Relic [Open positions](https://newrelic.com/about/careers)
 * New Work SE (All offers are remote) [Open positions](https://www.new-work.se/en/career/vacancies)
 * ninety nine (All technical offers are remote) [Open positions](https://ninetynine.com/unete-al-equipo)
 * Noddus [Open positions](https://www.enterprise.noddus.com/careers)
